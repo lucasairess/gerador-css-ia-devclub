@@ -1,8 +1,8 @@
-# 🎨 Gerador de CSS com IA — DevClub
+# 🎨 AI CSS Generator — DevClub
 
 > Interface web que transforma descrições em linguagem natural em código HTML + CSS animado, usando a API da Groq (LLaMA 3.3-70b) como motor de geração.
 
-**🔗 [Teste a Demo Online Aqui!](https://lucasairess.github.io/gerador-css-ia-devclub/)**
+**🔗 [Teste a Demo Online Aqui!](https://lucasairess.github.io/css-ai-generator/)**
 
 
 ---
@@ -21,7 +21,7 @@
 
 ## Descrição
 
-O **Gerador de CSS com IA** é um projeto educacional do **DevClub** que demonstra, na prática, como conectar uma interface web a uma LLM para geração de código em tempo real.
+O **AI CSS Generator** é um projeto educacional do **DevClub** que demonstra, na prática, como conectar uma interface web a uma LLM para geração de código em tempo real.
 
 O usuário descreve o que imagina (ex: *"uma bola vermelha pulsando"*) e a IA retorna código HTML + CSS pronto, exibido simultaneamente em um bloco de código e em um preview ao vivo.
 
@@ -57,7 +57,7 @@ Sem frameworks, sem build step. Projeto 100% vanilla, abre direto no browser.
 ## Estrutura de Arquivos
 
 ```
-Projeto Gerador de CSS DevClub/
+css-ai-generator/
 ├── index.html          # Estrutura HTML da aplicação
 ├── styles.css          # Estilos globais + tokens CSS + layout
 ├── scripts.js          # Lógica de integração com a API Groq
